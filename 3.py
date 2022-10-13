@@ -72,4 +72,13 @@ while anahtar ==20:
         print("Oyuna başlamak için bir Kahraman seiçiniz")
         print(seçim_ekrani)
 
-        
+
+
+
+
+
+
+
+
+
+
